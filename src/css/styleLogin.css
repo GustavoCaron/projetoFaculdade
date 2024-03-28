@@ -27,7 +27,7 @@ h1 {
     padding: 2px 5px;
 }
 
-.login input::placeholder {
+.login input::placeholder, a{
     font-size: 15px;
 }
 
